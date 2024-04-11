@@ -1,6 +1,6 @@
 # Comparing Classifiers on Banking Data
 
-[V1.0 Jupyter Notebook Link]([https://github.com/sjt80/comparing-classifiers/blob/main/comparing_classifiers.ipynb])
+[V1.0 Jupyter Notebook Link][https://github.com/sjt80/comparing-classifiers/blob/main/comparing_classifiers.ipynb]
 
 ### Executive Summary
 
